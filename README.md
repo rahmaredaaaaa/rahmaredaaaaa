@@ -4,11 +4,9 @@
 
 ### Data Science Student | Python • SQL • Power BI
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45%"/>
-
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45%"/>
 </div>
 
----
 
 ## 🔥 ABOUT ME
 
