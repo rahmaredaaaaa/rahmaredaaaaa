@@ -2,30 +2,68 @@
 
 # RAHMA REDA
 
-### Data Science Student | Python • SQL • Power BI
+### Data Science Student | Python • SQL • Power BI • AI Foundations
 
+---
+
+<table>
+<tr>
+<td width="55%">
 
 ## 🔥 ABOUT ME
 
 🎓 Computer Science student at Horus University  
-📊 Specialized in **Intelligent Data Science**  
-📍 Level 2 Data Science Track  
+📊 Specialized in Intelligent Data Science Track  
+📍 Level 2 Student  
 
-> Turning raw data into meaningful stories 📊✨
+> Turning raw data into meaningful decisions and insights.
 
-I don’t just study data — I learn how to **transform it into decisions, insights, and real impact**.
+أنا مش بس بذاكر Data Science…  
+أنا بشتغل على فهم البيانات وتحويلها لقرارات حقيقية.
 
-I focus on building strong analytical thinking backed by Python, SQL, and visualization tools.
+بستخدم Python وSQL وPower BI عشان أبني تفكير تحليلي قوي مش مجرد أدوات.
 
 ---
 
 ## ⚡ CURRENT FOCUS
 
-- Advanced Python for Data Analysis 🐍  
-- SQL for complex data querying 🗄️  
-- Data Visualization with Power BI 📊  
-- Statistics & Data Interpretation 📈  
-- Foundations of Machine Learning 🤖  
+- 🐍 Advanced Python for Data Analysis  
+- 🗄️ SQL for Complex Queries  
+- 📊 Power BI Dashboards  
+- 📈 Statistics & Data Interpretation  
+- 🤖 Machine Learning Fundamentals  
+
+</td>
+
+<td width="45%">
+
+## 📌 PROFILE SNAPSHOT
+
+📍 Egypt  
+🎓 Horus University  
+📚 CS – Data Science Track  
+📊 Level: 2  
+
+---
+
+## 🎯 CORE MINDSET
+
+✔ Problem Solver  
+✔ Data-Driven Thinker  
+✔ Curious Analyst  
+✔ Continuous Learner  
+
+---
+
+## 🚀 GOAL
+
+Becoming a **Data Scientist**  
+capable of solving real-world problems  
+using data, logic, and AI.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -36,15 +74,17 @@ I focus on building strong analytical thinking backed by Python, SQL, and visual
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
 
 ---
 
-## 🎯 WHAT I AIM FOR
+## 📊 WHAT I AIM FOR
 
-- Becoming a **Data Scientist** capable of solving real-world problems  
-- Building strong, production-level data projects  
-- Mastering Machine Learning & AI fundamentals  
-- Turning raw datasets into actionable intelligence  
+- Build real-world data projects  
+- Master Machine Learning & AI  
+- Strengthen analytical thinking  
+- Create impactful dashboards  
+- Turn datasets into decisions  
 
 ---
 
@@ -54,7 +94,11 @@ I focus on building strong analytical thinking backed by Python, SQL, and visual
 class DataScientist:
     def __init__(self):
         self.name = "Rahma"
+        self.role = "Data Scientist in Progress"
+        self.skills = ["Python", "SQL", "Power BI"]
         self.mindset = "Problem Solver"
-        self.core_skills = ["Python", "SQL", "Power BI"]
         self.goal = "Turn data into decisions"
-        self.passion = "Data Science & AI"
+        self.drive = "Impact through data"
+
+    def work(self):
+        return "Analyze → Visualize → Decide"
