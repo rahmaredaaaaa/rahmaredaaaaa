@@ -4,13 +4,19 @@
 
 ### Data Science Student | Python • SQL • Power BI
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%"/></div>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45%"/>
+
+</div>
+
+---
 
 ## 🔥 ABOUT ME
 
 🎓 Computer Science student at Horus University  
 📊 Specialized in **Intelligent Data Science**  
 📍 Level 2 Data Science Track  
+
+> Turning raw data into meaningful stories 📊✨
 
 I don’t just study data — I learn how to **transform it into decisions, insights, and real impact**.
 
