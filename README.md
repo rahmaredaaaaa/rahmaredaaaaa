@@ -3,8 +3,7 @@
 # RAHMA REDA
 
 ### Data Science Student | Python • SQL • Power BI
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J5b2l1d2N6d3R5dWJ0Z2x6d2F2a2l5c2x5dGx5b2x0bGJ5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yU7Z6oIwK3Zz9c0H8n/giphy.gif" width="45%"/>
-
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="45%"/>
 
 
 ## 🔥 ABOUT ME
