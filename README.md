@@ -1,4 +1,4 @@
-md
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=700&color=8A2BE2&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+My+GitHub+👋+|+I'm+Rahma+🌸"
