@@ -1,9 +1,7 @@
-md id="3s5r7j"
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile+👋+|+Rahma+🌸"
-    alt="Typing SVG" />
-</p>
+md
+<h1 align="center"><b>Welcome to My GitHub 👋</b></h1>
+
+<h1 align="center"><b>I'm Rahma Reda🌸</b></h1>
 
 <p align="center">
   <img 
@@ -11,6 +9,7 @@ md id="3s5r7j"
     alt="Typing SVG" />
 </p>
 ```
+
 
 
 
