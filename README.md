@@ -1,10 +1,16 @@
-<div align="left">
+md id="o4l7do"
+<h1 align="center">Welcome to my GitHub profile 👋</h1>
 
-# RAHMA REDA
+<h3 align="center">I'm Rahma</h3>
 
-### Data Science Student | Python • SQL • Power BI
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Data+Analyst;Passionate+About+Data+%26+Insights;SQL+%7C+Python+%7C+Power+BI;Turning+Data+Into+Insights;Building+Projects+and+Learning+Every+Day;Exploring+Data+Analysis+%26+BI;Always+Learning+New+Skills;Database+%26+Data+Analysis+Enthusiast;Interested+in+Business+Intelligence;Learning+by+Building+Real+Projects;Data+Analytics+Journey+in+Progress"
+      alt="Typing SVG" />
+  </a>
+</p>
 
----
 
 ## 🔥 ABOUT ME
 
