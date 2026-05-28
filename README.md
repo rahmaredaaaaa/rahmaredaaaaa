@@ -50,12 +50,13 @@ I don’t just learn tools — I use them to solve real problems.
 
 ---
 
-## 🎯 GOAL
 
-Becoming a **Data Scientist**  
+       ## 🎯 GOAL
+
+Becoming a Data Scientist  
 who turns data into decisions, insights, and impact.
 
-
+```python
 class Rahma:
     def __init__(self):
         self.name = "Rahma"
@@ -67,7 +68,7 @@ class Rahma:
             "SQL 🗄️",
             "Power BI 📊",
             "Data Analysis 📈",
-            "Database Design 💾"
+            "Database Design 🖥️"
         ]
 
         self.mindset = "Problem Solver 💡"
@@ -78,6 +79,6 @@ class Rahma:
 
 me = Rahma()
 me.say_hi()
-
+```
 
 
