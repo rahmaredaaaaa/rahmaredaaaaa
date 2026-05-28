@@ -55,15 +55,28 @@ I don’t just learn tools — I use them to solve real problems.
 Becoming a **Data Scientist**  
 who turns data into decisions, insights, and impact.
 
----
 
-## ⚙️ THINKING STYLE
-
-```python
-class DataScientist:
+class Rahma:
     def __init__(self):
         self.name = "Rahma"
         self.role = "Data Science Student"
-        self.skills = ["Python", "SQL", "Power BI"]
-        self.mindset = "Problem Solver"
-        self.goal = "Turn data into decisions"
+        self.location = "Egypt 🇪🇬"
+
+        self.skills = [
+            "Python 🐍",
+            "SQL 🗄️",
+            "Power BI 📊",
+            "Data Analysis 📈",
+            "Database Design 💾"
+        ]
+
+        self.mindset = "Problem Solver 💡"
+        self.goal = "Turning data into insights ✨"
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile 👋")
+
+me = Rahma()
+me.say_hi()
+
+
