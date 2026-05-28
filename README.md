@@ -1,16 +1,21 @@
 md
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=2000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+👋"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&pause=2000&color=8A2BE2&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+My+GitHub+👋"
     alt="Typing SVG" />
 </p>
 
-<h1 align="center"><b>I'm Rahma 🌸</b></h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=2000&color=BA55D3&center=true&vCenter=true&width=1000&height=80&lines=I'm+Rahma+Reda+🌸"
+    alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=BA55D3&center=true&vCenter=true&width=1000&lines=📊+Data+Science+Student;💻+Aspiring+Data+Analyst;🐍+SQL+%7C+Python+%7C+Power+BI;📈+Turning+Data+Into+Insights;🌱+Always+Learning+New+Skills;✨+Building+Projects+and+Growing"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=D87093&center=true&vCenter=true&width=1000&lines=📊+Data+Science+Student;💻+Aspiring+Data+Analyst;🐍+SQL+%7C+Python+%7C+Power+BI;📈+Turning+Data+Into+Insights;🌱+Always+Learning+New+Skills;✨+Building+Projects+and+Growing"
     alt="Typing SVG" />
+</p>
 
 
 
