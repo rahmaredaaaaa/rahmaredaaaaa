@@ -17,7 +17,7 @@
 
 
 
-## 🔥 ABOUT ME
+##  ABOUT ME
 
 🎓 Computer Science student at Horus University  
 📊 Specialized in Intelligent Data Science Track  
